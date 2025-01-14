@@ -28,4 +28,4 @@ Enhance animations and transitions for a smoother experience.
 Suraj Patel
 
 🌐 Live Demo
-Check out the live version .
+Check out the live version <a href="https://surajpatel28.github.io/Spotify-Clone/">here</a>.
