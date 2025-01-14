@@ -10,6 +10,8 @@ A simple and responsive clone of Spotify's user interface created using HTML and
 Desktop View - 
 ![image](https://github.com/user-attachments/assets/6a1fbc8d-d9ff-4ab2-8e18-21d05ef22a1f)
 
+Currently, This version of the site in only available for desktop view and not optimized for mobile versions.
+
 📚 Technologies Used
 HTML5: Structuring the web content.
 CSS3: Styling the user interface.
